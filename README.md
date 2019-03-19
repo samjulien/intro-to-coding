@@ -13,6 +13,7 @@ This repo is to track the progress of Amy and Shawneen in their quest to learn t
 ## Articles & Courses to Get Started
 - [Beginning Your Web Dev Journey](https://hackernoon.com/beginning-your-web-development-journey-start-here-7084346f5762)
 - [Learning to Learn](https://css-tricks.com/learning-to-learn/) by Sarah Drasner
+- [How to Get Started with Programming](https://kentcdodds.com/blog/how-to-get-started-with-programming) by Kent C. Dodds
 - [Free Code Camp](https://www.freecodecamp.org/) (start here)
 - [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) (and here)
 - [Marksheet](https://marksheet.io/) (and here)
